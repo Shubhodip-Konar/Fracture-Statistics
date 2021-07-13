@@ -26,11 +26,13 @@ Figure 3: Typical graphical outputs from the code snippet to be used for fractur
 
 The code is straightforward and heavily dependent on circular data analytics and standard data distribution plots. The user has the liberty to use the analytics for the complete well data or separately for each formation. However, a bottoms-up approach starting with the entire well before delving into each formation was found to be useful by the author.  To capture the stress aspect, a Mohr’s circle analysis of the faults present is given as an output. Figure 4 shows flow chart of the code for better understanding. The Mohr circle analysis (Figure 5) calculates the shear stress/ normal stress acting on the individual planes using Cauchy’s Law, given 2 of the principal stresses are horizontal. For further reading, one can refer to Cornell University structural lab manual (link).  
  
-![alt text](https://github.com/Shubhodip-Konar/Fracture-Statistics/blob/main/Figures/Figure%204.jpg)
+
 
 Figure 4: Flow chart for fracture statistics analysis and outputs
  
+![alt text](https://github.com/Shubhodip-Konar/Fracture-Statistics/blob/main/Figures/Figure%204.jpg)
 Figure 5: Mohr circle analysis of the faults observed in BHI
+ 
 The exported excel files, in TVDSS depth, can be used in standard petroleum geology software. These include calculated µ (shear/normal stress) for all fault planes, 5m frequency plot for fracture set, dip-wise classified fracture frequency data, and frequency plot for specific fracture orientation. 
 These trivial looking analyses can give insights on the field development. Average dip and dip azimuth can point to specific fracture set with impact on well production. Fracture classification based on dip value point to genetic origin of the most import set in the location, and point to sweet spot based on structural analysis. Likewise, an overall higher average µ for all the wells in a certain part of the field can be used to plan hydrofrac design. 
 
