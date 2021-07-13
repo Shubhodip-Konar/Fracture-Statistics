@@ -30,7 +30,7 @@ The code is straightforward and heavily dependent on circular data analytics and
 
 Figure 4: Flow chart for fracture statistics analysis and outputs
  
-![alt text](https://github.com/Shubhodip-Konar/Fracture-Statistics/blob/main/Figures/Figure%204.jpg)
+![alt text](https://github.com/Shubhodip-Konar/Fracture-Statistics/blob/main/Figures/Figure%205.jpg)
 Figure 5: Mohr circle analysis of the faults observed in BHI
  
 The exported excel files, in TVDSS depth, can be used in standard petroleum geology software. These include calculated µ (shear/normal stress) for all fault planes, 5m frequency plot for fracture set, dip-wise classified fracture frequency data, and frequency plot for specific fracture orientation. 
