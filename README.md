@@ -1,4 +1,4 @@
-# Naturally Fractured Reservoirs-Statistics
+# Naturally Fractured Reservoirs
 Descriptive statistics about BHI fractures; Critically stressed faults
 
 
